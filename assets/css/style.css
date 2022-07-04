@@ -1,0 +1,10 @@
+@import '_normalize.min.css'; /* выравнивание стилей */
+@import '_fonts.css'; /* шрифты */
+@import '_variables.css'; /* переменные */
+@import '_vendors.css'; /* стили из библиотек */
+@import '_global.css'; /* сброс глобальных свойств */
+@import '_overall.css'; /* индивидуальные свойства проекта */
+
+/* COMPONENTS style start  */
+
+@import 'components/_modal.css';
